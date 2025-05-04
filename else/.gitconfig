@@ -1,0 +1,14 @@
+[user]
+	name = Joe-BN
+	email = joe.ngera@gmail.com
+[core]
+    editor = nvim
+[alias]
+  st = status
+  co = checkout
+  br = branch 
+  ct = commit
+[push]
+  default = current
+
+
